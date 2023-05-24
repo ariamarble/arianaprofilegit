@@ -7,6 +7,8 @@ permalink: index.html
 summary: This is my personal site built with Jekyll
 ---
 
+![Profile Pic]({{site.url}}{{site.baseurl}}/images/profile.jpg)
+
 ## Build the Theme
 
 Follow these instructions to build the theme.
