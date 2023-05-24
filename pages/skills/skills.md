@@ -19,9 +19,13 @@ folder: skills
 
 ## Technical Proficiencies
 
+
 **Platforms:**	Linux, Windows, VMWare	(vSphere, ESX, vCenter, Server), Apple iOS
+
 **Cloud:**	Amazon Web Services, AWS Elemental MediaConvert, AWS Elemental MediaLive, AWS Elemental MediaPackage, AWS AEMS, AWS CWI, AWS Identity and Access Management (IAM), Amazon S3
+
 **Networking:**	Cisco IOS, Cisco Systems Products, Cisco Routers, Cisco Switches, Firewalls, Checkpoint, Cisco Call Manager, Cisco Wireless, Cisco ASA, Cisco UCS, Virtual Private Network (VPN), Fortinet, Network OES
+
 **Tools:**  	Microsoft Office Suite, Video over IP, BYOD, Active Directory
 
 {% include links.html %}
