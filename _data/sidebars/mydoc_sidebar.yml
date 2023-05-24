@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: About me
-      url: /index.html
+      url: /
       output: web, pdf
       type: homepage
 
