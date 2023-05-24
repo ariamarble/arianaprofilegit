@@ -4,7 +4,7 @@ keywords: homepage
 tags: [homepage]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: This is my personal site built with Jekyll
+summary: Ariana Marble Profile
 ---
 
 ![Profile Pic]({{site.url}}{{site.baseurl}}/images/profile.jpg)
