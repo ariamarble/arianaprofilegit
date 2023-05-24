@@ -33,7 +33,7 @@ entries:
     folderitems:
 
     - title: Freelance Technical Specialist
-      url: /experience_awsopensearch.html
+      url: /experience_freelance.html
       output: web
 
     - title: AWS OpenSearch Technical Writer
@@ -41,23 +41,23 @@ entries:
       output: web
 
     - title: AWS Elemental Technical Specialist
-      url: /experience_awsopensearch.html
+      url: /experience_awselementalts.html
       output: web
 
     - title: AWS Elemental TSE IV
-      url: /experience_awsopensearch.html
+      url: /experience_awselementaltse.html
       output: web
 
     - title: FCSD 25 Network Engineer
-      url: /experience_awsopensearch.html
+      url: /experience_fcsdnetwork.html
       output: web
 
     - title: Cerento Network Engineer
-      url: /experience_awsopensearch.html
+      url: /experience_cerentonetwork.html
       output: web
 
     - title: Wyoming.com Desktop Support
-      url: /experience_awsopensearch.html
+      url: /experience_wyomingsupport.html
       output: web
 
   - title: Education
