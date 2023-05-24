@@ -24,9 +24,8 @@ entries:
     folderitems:
 
     - title: About me
-      external_url: ariamarbleworks.com
-      output: web, pdf
-      type: homepage
+      external_url: http://www.ariamarbleworks.com
+      output: web
 
   - title: Experience
     output: web
