@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: About me
-      url: /index.html
+      external_url: ariamarbleworks.com
       output: web, pdf
       type: homepage
 
