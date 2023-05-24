@@ -15,5 +15,6 @@ Experienced, results-driven, customer-centric Technical Writer, Network Engineer
 Extensive experience in troubleshooting and resolving complex technical issues, with history of providing timely and effective support to customers, identifying and resolving software and hardware issues, and implementing solutions to prevent future problems. Strong background in designing, implementing, and maintaining complex network infrastructure, with skills in configuring and managing network devices, such as routers, switches, firewalls, and load balancers. Experienced in developing and implementing network security policies and procedures to protect against cyber threats.
 
 * [Ariana's LinkedIn]( https://www.linkedin.com/in/ariana-m-698743183/)
+* ariana.paige.marble@gmail.com
 
 {% include links.html %}
