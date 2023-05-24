@@ -65,19 +65,19 @@ entries:
     folderitems:
 
     - title: A.A.S - Computer Technologies
-      url: /experience_awsopensearch.html
+      url: /edu_aas.html
       output: web
 
     - title: Credential - Computer Technologies
-      url: /experience_awsopensearch.html
+      url: /edu_cred.html
       output: web
 
     - title: B.S - Computer Science
-      url: /experience_awsopensearch.html
+      url: /edu_bs.html
       output: web
 
     - title: A.A - General Studies
-      url: /experience_awsopensearch.html
+      url: /edu_aa.html
       output: web
 
   - title: Certifications
@@ -85,11 +85,11 @@ entries:
     folderitems:
 
     - title: CCNA
-      url: /experience_awsopensearch.html
+      url: /certs_ccna.html
       output: web
 
     - title: A+
-      url: /experience_awsopensearch.html
+      url: /certs_aplus.html
       output: web
 
   - title: Skills
@@ -97,7 +97,7 @@ entries:
     folderitems:
 
     - title: Skills
-      url: /experience_awsopensearch.html
+      url: /skills_skills.html
       output: web
 
 # Copyright 2021 Google LLC
