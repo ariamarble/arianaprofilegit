@@ -7,7 +7,7 @@ permalink: index.html
 summary: Ariana Marble Profile
 ---
 
-![Profile Pic]({{site.url}}{{site.baseurl}}/images/profile.jpg)
+![Profile Pic]({{site.url}}{{site.baseurl}}/images/profile.jpg =250x250)
 
 ## Build the Theme
 
