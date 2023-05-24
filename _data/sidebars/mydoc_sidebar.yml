@@ -20,9 +20,13 @@ entries:
       type: frontmatter
 
   - title: About me
-    url: /index.html
     output: web, pdf
-    type: homepage
+    folderitems:
+
+    - title: About me
+      url: /index.html
+      output: web, pdf
+      type: homepage
 
   - title: Overview
     output: web, pdf
@@ -114,7 +118,11 @@ entries:
       output: web
 
   - title: Skills
-    url: /experience_awsopensearch.html
     output: web
+    folderitems:
+
+    - title: Skills
+      url: /experience_awsopensearch.html
+      output: web
 
 # Copyright 2021 Google LLC

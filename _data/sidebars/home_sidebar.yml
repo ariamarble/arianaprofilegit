@@ -8,17 +8,11 @@ entries:
   - title: Social Media
     output: web
     folderitems:
-    - title: News
-      url: /news.html
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/ariana-m-698743183/
       output: web
-    - title: Theme instructions
-      url: /mydoc_introduction.html
-      output: web
-    - title: Product 1
-      url: /p1_landing_page.html
-      output: web
-    - title: Product 2
-      url: /p2_landing_page.html
+    - title: GitHub
+      url: https://github.com/ariamarble
       output: web
 
 # Copyright 2021 Google LLC
