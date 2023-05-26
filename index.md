@@ -16,5 +16,4 @@ Extensive experience in troubleshooting and resolving complex technical issues, 
 
 * [Ariana's LinkedIn]( https://www.linkedin.com/in/ariana-m-698743183/)
 * ariana.paige.marble@gmail.com
-
-{% include links.html %}
+* This site was built using **[Jekyll](https://jekyllrb.com/)** and published with **[Github](https://github.com/ariamarble/arianaprofilegit) Pages**.
