@@ -99,4 +99,12 @@ entries:
       url: /skills_skills.html
       output: web
 
+  - title: Privacy Policy
+    output: web
+    folderitems:
+
+    - title: Privacy Policy
+      url: /privacy_privacy.html
+      output: web
+
 # Copyright 2021 Google LLC
