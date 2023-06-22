@@ -2,7 +2,7 @@
 title: Privacy Policy
 last_updated: June 22, 2023
 sidebar: mydoc_sidebar
-permalink: privacy.html
+permalink: privacy_privacy.html
 folder: privacy
 ---
 
